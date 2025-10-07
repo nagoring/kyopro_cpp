@@ -12,4 +12,7 @@ add_executable(kyopro_cpp main.cpp
         A/abc400_a.cpp
         A/abc399_a.cpp
         version.cpp
+		A/abc212_a.cpp
+		A/abc213_a.cpp
+		A/abc215_a.cpp
 )
